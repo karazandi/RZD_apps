@@ -1,5 +1,5 @@
 I dedicate this repository to share the enhanced version of my calculator project.
-The apps will be free to use, but I need my own "ownership" to the project, so I won't share the plain source code to each module or even the main scripts.
+The apps will be free to use, but I need something that I can call my "ownership" to the project, so I won't share the plain source code to each module or even the main scripts.
 Everyone will be free to use the apps, but need my approval to access it each time. The approval request will send me a telegram notification and I will have to respond to approve or deny.
 
 For now, the apps only consist of two calculator modules. Those are Imperfection Extractor and JONSWAP random wave generator.
