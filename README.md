@@ -12,4 +12,4 @@ Future additions to the module will be shared in this repository and I'll ensure
 IMPORTANT:
 1. I suggest not to download the 1.00 version because that upload is only intended for beta testing
 2. This apps require user to have python installed in the system, so make sure to install python first
-3. All dependencies required to run this apps is already handled by main script, all you need to do is install python and run "RZD_apps.pyc"
+3. All dependencies required to run this apps is already handled by main script, all you need to do is install python via command prompt (command: *pip install python*) and run "RZD_apps.pyc"
