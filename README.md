@@ -10,6 +10,7 @@ JONSWAP module is not yet verified. I haven't check how close JONSWAP spectrum c
 Future additions to the module will be shared in this repository and I'll ensure that the script will handle the update process for you.
 
 IMPORTANT:
-1. I suggest not to download the 1.00 version because that upload is only intended for beta testing
-2. This apps require user to have python installed in the system, so make sure to install python first
-3. All dependencies required to run this apps is already handled by main script, all you need to do is install python via command prompt (command: *pip install python*) and run "RZD_apps.pyc"
+1. To download the apps, choose the desired version folder and download all content of the folder
+2. I suggest not to download the 1.00 version because that upload is only intended for beta testing
+3. This apps require user to have python installed in the system, so make sure to install python first
+4. All dependencies required to run this apps is already handled by main script, all you need to do is install python via command prompt (command: *pip install python*) and run "RZD_apps.pyc"
