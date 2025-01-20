@@ -1,3 +1,4 @@
+openpxyl
 pyzipper
 numpy
 matplotlib
