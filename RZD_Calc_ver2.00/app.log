@@ -1,0 +1,12 @@
+DEBUG:root:Application started
+DEBUG:matplotlib:matplotlib data path: F:\Python\Lib\site-packages\matplotlib\mpl-data
+DEBUG:matplotlib:CONFIGDIR=C:\Users\karazandi\.matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is win32
+DEBUG:root:Application started
+DEBUG:matplotlib:matplotlib data path: F:\Python\Lib\site-packages\matplotlib\mpl-data
+DEBUG:matplotlib:CONFIGDIR=C:\Users\karazandi\.matplotlib
+DEBUG:matplotlib:interactive is False
+DEBUG:matplotlib:platform is win32
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.github.com:443
+DEBUG:urllib3.connectionpool:https://api.github.com:443 "GET /repos/karazandi/RZD_apps/contents HTTP/1.1" 200 675
