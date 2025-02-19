@@ -13,7 +13,7 @@ Future additions to the modules will be shared in this repository, and I will en
 - To download the application, navigate to the desired version folder and download all its contents.  
 - I do not recommend downloading version **1.00**, as it was intended solely for beta testing.  
 - This application requires Python to be installed on your system. Make sure to install Python before running the application.  
-- All necessary dependencies are handled by the main script. Simply install Python via the command prompt using:  
+- All necessary dependencies are handled by the main script. Simply download pyton version 3.12.8 and install pip using:  
   ```
   pip install python
   ```
